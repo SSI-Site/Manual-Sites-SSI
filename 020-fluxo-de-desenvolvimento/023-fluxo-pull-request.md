@@ -6,7 +6,7 @@ A Pull Request (PR) é o momento onde o seu código é enviado para avaliação 
 
 Quando você finalizar o desenvolvimento e realizar o `git push` da sua branch local para o GitHub, siga este processo:
 
-1. **Abertura:** Crie a Pull Request apontando a sua branch para a `main`.
+1. **Abertura:** Crie a Pull Request apontando a sua branch para a `develop`.
 2. **Revisão:** Ao criar a PR, você deve obrigatoriamente solicitar a revisão da conta técnica do setor (`SSI-Site`) ou do líder/diretor responsável.
 3. **Atualização do quadro Kanban:** Volte no GitHub Projects e mova o seu card da coluna *In Progress* para **In Review**.
 4. **Mapeamento de tempo:** Edite o título do seu card no Kanban incluindo o tempo aproximado que você gastou desenvolvendo aquela tarefa. Isso ajuda a gestão a metrificar o esforço do time.
